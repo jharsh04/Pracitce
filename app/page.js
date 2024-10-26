@@ -7,7 +7,7 @@ export default function Home() {
 
       <main style={styles.main}>
         <section id="home" style={styles.section}>
-          <h2>Home</h2>
+          <h2>Hello i am harsh jain</h2>
           <p>This is the home section. Welcome to our simple frontend page.</p>
         </section>
 
