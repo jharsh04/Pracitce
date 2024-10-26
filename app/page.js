@@ -13,7 +13,7 @@ export default function Home() {
 
         <section id="about" style={styles.section}>
           <h2>About</h2>
-          <p>This section contains information about us. We aim to provide excellent services.</p>
+          <p>This section  information about us. We aim to provide excellent services.</p>
         </section>
 
         <section id="services" style={styles.section}>
@@ -23,7 +23,6 @@ export default function Home() {
 
         <section id="contact" style={styles.section}>
           <h2>Contact</h2>
-          <p>Get in touch with us via email or phone.</p>
         </section>
       </main>
     </>
